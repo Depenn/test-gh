@@ -1,12 +1,13 @@
-# Bubble Sort
+# 泡沫排序 (Bubble Sort)
 
-Folder ini berisi implementasi algoritma Bubble Sort dalam bahasa Python.
+這個資料夾包含使用 Python 實作的泡沫排序演算法。
 
-## File
+## 檔案
 
-- `bubble_sort/bubble_sort.py` - Program bubble sort
+- `bubble_sort/bubble_sort.py` - 泡沫排序程式
+- `bubble_sort/README.md` - 詳細說明文件
 
-## Penggunaan
+## 使用方法
 
 ```bash
 python bubble_sort/bubble_sort.py
